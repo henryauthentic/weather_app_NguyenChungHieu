@@ -242,7 +242,7 @@ Bạn chỉ cần **tạo thư mục `screenshots/` trên GitHub** và thả ả
 * Weekly Forecast
 
 ```
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](assets/screenshots/home_screen.png)
 
 ```
 ```
