@@ -247,7 +247,7 @@ Bạn chỉ cần **tạo thư mục `screenshots/` trên GitHub** và thả ả
 
 ![Home Screen 2](assets/screenshots/home_screen_2.png)
 
-![Home Screen 2](assets/screenshots/home_screen_2.png)
+![Home Screen 2](assets/screenshots/home_screen_3.png)
 
 
 
@@ -258,101 +258,66 @@ Bạn chỉ cần **tạo thư mục `screenshots/` trên GitHub** và thả ả
 * Icon thời tiết
 * Xoay theo timeline
 
-```
-![Hourly Forecast](screenshots/hourly_forecast.png)
-```
+![Home Screen 2](assets/screenshots/home_screen_2.png)
 
----
 
 ## 📅 **3. Dự báo 7 ngày (Daily Forecast)**
 
 * Min/Max temperature
 * Icon dự báo
 
-```
-![Daily Forecast](screenshots/daily_forecast.png)
-```
-
----
+![Home Screen 2](assets/screenshots/home_screen_3.png)
 
 ## 🔍 **4. Tìm kiếm thành phố**
 
 * Realtime search
 * Lưu lịch sử gần đây
 
-```
-![Search Screen](screenshots/search_screen.png)
-```
-
----
+![Home Screen 2](assets/screenshots/search_screen.png)
 
 ## 🌍 **5. Weather Maps (Windy-Style)**
 
 ### ✔ Radar (Clouds Layer)
 
-```
-![Maps - Clouds](screenshots/maps_clouds.png)
-```
+![Home Screen 2](assets/screenshots/maps_clouds.png)
 
 ### ✔ Temperature Layer (+ hiệu ứng Temp Glow)
 
-```
-![Maps - Temperature](screenshots/maps_temperature.png)
-```
+![Home Screen 2](assets/screenshots/maps_temperature.png)
 
 ### ✔ Precipitation Layer
 
-```
-![Maps - Precipitation](screenshots/maps_precipitation.png)
-```
-
-```
+![Home Screen 2](assets/screenshots/maps_precipitation.png)
 
 ### ✔ Nút quay lại vị trí của tôi
 
-```
-![Maps - My Location](screenshots/maps_my_location.png)
-```
+![Home Screen 2](assets/screenshots/maps_clouds.png)
 
 ### ✔ Panel điều khiển có thể thu gọn
 
-```
-![Maps - Control Panel](screenshots/maps_panel.png)
-```
+![Home Screen 2](assets/screenshots/Menu.png)
 
----
 
 ## 🌫️ **6. Chỉ số chất lượng không khí (AQI)**
 
-```
-![Air Quality](screenshots/air_quality.png)
-```
+![Home Screen 2](assets/screenshots/air_quality.png)
 
----
 
 ## 🚨 **7. Cảnh báo thời tiết (Weather Alerts)**
 
-```
-![Weather Alerts](screenshots/weather_alerts.png)
-```
+![Home Screen 2](assets/screenshots/weather_alerts.png)
 
----
 
 ## 🌐 **8. Đa ngôn ngữ (EN – VI)**
 
 ### English Mode:
 
-```
-![Language EN](screenshots/lang_en.png)
-```
+![Home Screen 2](assets/screenshots/lang_en.png)
+
 
 ### Vietnamese Mode:
 
-```
-![Language VI](screenshots/lang_vi.png)
-```
-
----
+![Home Screen 2](assets/screenshots/lang_vi.png)
 
 ## 📶 **9. Offline Mode**
 
