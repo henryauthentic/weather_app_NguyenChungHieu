@@ -317,6 +317,9 @@ flutter run
 
 ![Home Screen 2](assets/screenshots/compare_3.png)
 
+# 🧭 **11. widgets **
+
+![Home Screen 2](assets/screenshots/widgets.png)
 
 # 🛠 **Công nghệ sử dụng**
 
