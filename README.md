@@ -241,18 +241,16 @@ Bạn chỉ cần **tạo thư mục `screenshots/` trên GitHub** và thả ả
 * AQI mini-card
 * Weekly Forecast
 
-```
+
 ![Home Screen](assets/screenshots/home_screens.png)
 
-```
-```
-![Home Screen 2](assets/screenshots/home_screen_2.png)
-```
-```
-![Home Screen 2](assets/screenshots/home_screen_2.png)
-```
 
----
+![Home Screen 2](assets/screenshots/home_screen_2.png)
+
+![Home Screen 2](assets/screenshots/home_screen_2.png)
+
+
+
 
 ## 🕒 **2. Dự báo theo giờ (Hourly Forecast)**
 
