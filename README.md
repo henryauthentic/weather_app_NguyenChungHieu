@@ -246,10 +246,10 @@ Bạn chỉ cần **tạo thư mục `screenshots/` trên GitHub** và thả ả
 
 ```
 ```
-![Home Screen](screenshots/home_screen_2.png)
+![Home Screen 2](assets/screenshots/home_screen_2.png)
 ```
 ```
-![Home Screen](screenshots/home_screen_3.png)
+![Home Screen 2](assets/screenshots/home_screen_2.png)
 ```
 
 ---
