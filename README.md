@@ -319,65 +319,25 @@ Bạn chỉ cần **tạo thư mục `screenshots/` trên GitHub** và thả ả
 
 ![Home Screen 2](assets/screenshots/lang_vi.png)
 
-## 📶 **9. Offline Mode**
 
-* Tự load dữ liệu từ cache
-* Hiển thị "Updated 15 min ago"
 
-```
-![Offline Mode](screenshots/offline_mode.png)
-```
-
----
-
-## ⚙️ **10. Settings**
+## ⚙️ **9. Settings**
 
 * Đổi ngôn ngữ
 * Đổi đơn vị nhiệt độ
 * Xóa cache
 
-```
-![Settings](screenshots/settings_screen.png)
-```
-
----
-
-# 📱 **11. Các tình huống thời tiết**
-
-## ☀️ Trời nắng
-
-```
-![Sunny](screenshots/weather_sunny.png)
-```
-
-## 🌧️ Trời mưa
-
-```
-![Rainy](screenshots/weather_rainy.png)
-```
-
-## ☁️ Nhiều mây / Âm u
-
-```
-![Cloudy](screenshots/weather_cloudy.png)
-```
-
-## 🌙 Night Mode
-
-```
-![Night Mode](screenshots/weather_night.png)
-```
-
----
-
-# 🧭 **12. So sánh thành phố**
-
-```
-![Compare Cities](screenshots/compare_cities.png)
-```
+![Home Screen 2](assets/screenshots/setting.png)
 
 
----
+# 🧭 **10. So sánh thành phố**
+
+![Home Screen 2](assets/screenshots/compare_1.png)
+
+![Home Screen 2](assets/screenshots/compare_2.png)
+
+![Home Screen 2](assets/screenshots/compare_3.png)
+
 
 # 🛠 **Công nghệ sử dụng**
 
