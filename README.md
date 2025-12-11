@@ -1,4 +1,5 @@
 # 🌤️ **Flutter Weather App – [Nguyễn Chung Hiếu]**
+# demo https://drive.google.com/file/d/16C8LujS-z_hoETlzOKmlVzJtSHo1Y46b/view?usp=sharing
 
 Ứng dụng dự báo thời tiết đa nền tảng (Android/iOS) được xây dựng bằng **Flutter**, hỗ trợ **hiển thị thời tiết theo vị trí**, **tìm kiếm thành phố**, **bản đồ thời tiết Windy-style**, **chỉ số chất lượng không khí**, **cảnh báo thời tiết**, **đa ngôn ngữ (EN/VN)**, **offline cache**, và thiết kế UI hiện đại.
 
