@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widgetRoot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_bg"
+    android:padding="16dp">
+
+    <!-- CITY -->
+    <TextView
+        android:id="@+id/txtCity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thu Dau Mot"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white" />
+
+    <!-- CONDITION -->
+    <TextView
+        android:id="@+id/txtCondition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtCity"
+        android:layout_marginTop="4dp"
+        android:text="Cloudy"
+        android:textSize="12sp"
+        android:textColor="#CCFFFFFF" />
+
+    <!-- WEATHER ICON -->
+    <ImageView
+        android:id="@+id/imgWeatherIcon"
+        android:layout_width="52dp"
+        android:layout_height="52dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="4dp"
+        android:src="@drawable/ic_cloud"
+        android:tint="@android:color/white" />
+
+    <!-- TEMPERATURE -->
+    <TextView
+        android:id="@+id/txtTemperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/imgWeatherIcon"
+        android:layout_toStartOf="@id/imgWeatherIcon"
+        android:layout_marginEnd="16dp"
+        android:text="26°C"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/white" />
+
+    <!-- UPDATED AT -->
+    <TextView
+        android:id="@+id/txtUpdatedAt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Updated now"
+        android:textSize="10sp"
+        android:textColor="#80FFFFFF" />
+
+</RelativeLayout>

@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="150dp"
+    android:viewportWidth="300"
+    android:viewportHeight="150">
+
+    <!-- Background Gradient -->
+    <path
+        android:pathData="M0,0h300v150h-300z"
+        android:fillColor="#4A90E2" />
+
+    <!-- Slight overlay for gradient depth -->
+    <path
+        android:pathData="M0,0h300v150h-300z"
+        android:fillColor="#000000"
+        android:fillAlpha="0.12" />
+
+    <!-- Cloud Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,100h140a28,28 0 0 0 0,-56 42,42 0 0 0 -77,-21A35,35 0 0 0 80,100z"
+        android:fillAlpha="0.95"/>
+
+    <!-- Temperature Text -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,45h180v10h-180z"
+        android:fillAlpha="0" />
+
+</vector>

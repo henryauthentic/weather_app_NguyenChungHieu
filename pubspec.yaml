@@ -1,0 +1,51 @@
+name: weather_app
+description: A comprehensive weather application with API integration
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  http: ^1.1.0
+  geolocator: ^10.1.0
+  geocoding: ^2.1.1
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+  intl: ^0.20.2
+  cached_network_image: ^3.3.0
+  flutter_dotenv: ^5.1.0
+  connectivity_plus: ^5.0.2
+  cupertino_icons: ^1.0.2
+  home_widget: ^0.3.0
+  dtd: ^4.0.0
+  flutter_lints: ^6.0.0
+  google_fonts: ^6.3.3
+  json_rpc_2: ^4.0.0
+  path: ^1.9.1
+  stack_trace: ^1.12.1
+  url_launcher: ^6.3.2
+  web: ^1.1.1
+  
+  # 🔥 NEW: Maps dependencies
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.4.4
+  build_runner: ^2.4.7
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - .env
