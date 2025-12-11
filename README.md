@@ -1,4 +1,4 @@
-# 🌤️ **Flutter Weather App – [Your Name]**
+# 🌤️ **Flutter Weather App – [Nguyễn Chung Hiếu]**
 
 Ứng dụng dự báo thời tiết đa nền tảng (Android/iOS) được xây dựng bằng **Flutter**, hỗ trợ **hiển thị thời tiết theo vị trí**, **tìm kiếm thành phố**, **bản đồ thời tiết Windy-style**, **chỉ số chất lượng không khí**, **cảnh báo thời tiết**, **đa ngôn ngữ (EN/VN)**, **offline cache**, và thiết kế UI hiện đại.
 
@@ -202,28 +202,6 @@ flutter pub get
 flutter run
 ```
 
----
-
-Dưới đây là **phiên bản README.md hoàn chỉnh**, đã **thêm mục ảnh chụp màn hình theo từng chức năng** của app — đúng theo yêu cầu nộp bài.
-Bạn chỉ cần **tạo thư mục `screenshots/` trên GitHub** và thả ảnh thật của app vào các file tương ứng.
-
----
-
-# 🌤️ **Flutter Weather App – [Your Name]**
-
-Ứng dụng dự báo thời tiết đa tính năng được xây dựng bằng **Flutter**, có đầy đủ các chức năng như:
-⛅ Thời tiết hiện tại
-📅 Dự báo 24 giờ & 7 ngày
-🌍 Weather Maps (Windy-style: gió, mưa, nhiệt độ, mây)
-📍 Lấy vị trí thực tế
-🔍 Tìm kiếm thành phố
-🌫️ Chất lượng không khí (AQI)
-🚨 Cảnh báo thời tiết
-📶 Offline mode
-🌐 Đa ngôn ngữ (EN – VI)
-🎨 UI hiện đại (Material 3)
-
----
 
 # 📸 **Ảnh chụp màn hình (Full chức năng)**
 
@@ -370,15 +348,4 @@ Bạn chỉ cần **tạo thư mục `screenshots/` trên GitHub** và thả ả
 * Hỗ trợ iOS Home Widget
 * Tối ưu particle engine bằng compute isolate
 
----
 
-Nếu bạn muốn, mình có thể:
-
-✅ Xuất file README.md hoàn chỉnh
-✅ Tạo screenshot placeholder đúng kích thước
-✅ Tự động tạo repository mẫu GitHub
-✅ Tạo badge GitHub đẹp cho README
-
----
-
-Bạn muốn mình **xuất ra file README.md** luôn không? 📄
